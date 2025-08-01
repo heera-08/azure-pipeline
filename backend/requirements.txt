@@ -1,0 +1,15 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+langgraph==0.0.55
+langchain==0.1.0
+langchain-openai==0.0.2
+pydantic==2.5.0
+python-multipart==0.0.6
+requests==2.31.0
+pyyaml==6.0.1
+groovy-parser==1.0.0
+jenkins-job-builder==6.0.0
+aiofiles==23.2.1
+python-dotenv==1.0.0
+langgraph-swarm
+langgraph
